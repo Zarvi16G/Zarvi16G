@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/d7fc773c-f44b-4c26-821b-b84c2095c74b" alt="Descripción de la imagen" width="200"/> <a href="https://www.linkedin.com/in/tu-perfil" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:40px;height:40px;">
+# <img src="https://github.com/user-attachments/assets/d7fc773c-f44b-4c26-821b-b84c2095c74b" alt="Descripción de la imagen" width="200"/> <a href="https://www.linkedin.com/in/santiago-boada-rivas-6b4a392a4/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:40px;height:40px;">
 </a>
 ## Hello! I'm Santiago 👋 
 # ![(function repeat() { eat(); sleep(); love_yourself(); repeat(); })(); (1)](https://github.com/user-attachments/assets/b10ac720-410c-4368-83bc-bbe9cc9f714e)
